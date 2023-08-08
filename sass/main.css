@@ -12180,6 +12180,10 @@ header {
   font-family: "EB Garamond", serif;
 }
 
+.navbar-brand:hover {
+  color: #FFEEDF !important;
+}
+
 .mapa {
   margin: 0 0 0 28%;
 }
